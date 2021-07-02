@@ -1,2 +1,4 @@
 # Burtula
-cat animation
+Cat animation
+
+(For desktop resolution only)
